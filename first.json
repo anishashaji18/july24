@@ -1,0 +1,13 @@
+{
+    "School":{
+          "students":[ 
+              {"class1":["John", "Mary", "Sia"]},
+              {"class2":["Steve", "Mary", "Sia"]},
+               {"class3":["John", "Mary", "Sia"]}
+        ]     
+     
+    }
+        
+}
+
+ 
