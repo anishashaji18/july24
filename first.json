@@ -9,5 +9,24 @@
     }
         
 }
+var person = {
+    "Name": "Joe",
+    "Last Name": "Miller",
+    "Address": {
+        "Street": "Neverland 42"
+    },
+    "Hobbies": [
+        "doing stuff",
+        "dreaming"
+    ]
+};
+
+console.log(person);
+</script>
+
+</body>
+
+</html>
+
 
  
